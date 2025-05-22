@@ -1,0 +1,2 @@
+# 2025 season logs
+Unfortunately, 2025 was not a great season for 6423's software team. Due to many factors, the majority of time at competitions were spent debugging issues and getting things to work. The surviving logs from the seasons are incomplete and misleading.
