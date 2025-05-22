@@ -1,2 +1,2 @@
-# logs
-A repository containing all robot logs
+# Logs
+A repository storing all robot logs
